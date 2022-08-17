@@ -7,7 +7,7 @@ import dotenv from "dotenv"
 
 dotenv.config()
 
-const CLIENT_URL = "https://job-finder--app.herokuapp.com"
+const CLIENT_URL = "https://job--finder.herokuapp.com"
 
 // signup the user
 export const signUp = async (req, res) => {
